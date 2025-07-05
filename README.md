@@ -34,7 +34,7 @@ A full-stack Java web application for food delivery built using Servlets, JSP, J
 ---
 
 ## 📂 Project Structure
-<pre lang="text"><code> ``` TapFoods/ ├── src/ │ └── main/ │ ├── java/ │ │ └── com/ │ │ └── tapfoods/ │ │ ├── Model/ │ │ ├── DAO/ │ │ ├── DAOImple/ │ │ └── Servlets/ │ └── webapp/ │ ├── assets/ │ │ ├── css/ │ │ └── js/ │ ├── *.jsp # (JSP files like index.jsp, menu.jsp, etc.) │ └── WEB-INF/ │ └── web.xml ├── pom.xml # Maven project configuration file ├── database/ │ └── tapfoods_schema.sql # SQL schema └── .gitignore # Git ignore rules ``` </code></pre>
+<pre> ```bash TapFoods/ ├── src/ │ └── main/ │ ├── java/ │ │ └── com/ │ │ └── tapfoods/ │ │ ├── Model/ │ │ ├── DAO/ │ │ ├── DAOImple/ │ │ └── Servlets/ │ └── webapp/ │ ├── assets/ │ │ ├── css/ │ │ └── js/ │ ├── *.jsp # JSP files like index.jsp, menu.jsp, etc. │ └── WEB-INF/ │ └── web.xml ├── pom.xml # Maven project configuration file ├── database/ │ └── tapfoods_schema.sql # SQL schema file └── .gitignore # Git ignore rules ``` </pre>
 
 
 ## 🚀 How to Run Locally
