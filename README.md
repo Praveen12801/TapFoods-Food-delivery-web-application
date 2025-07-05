@@ -88,11 +88,10 @@ TapFoods/
 
 
 🔐 Future Enhancements
-  Admin dashboard for managing restaurants and menus
-  Email notifications for order confirmation
-  Payment gateway integration
-  Filters and ratings
-  Mobile-responsive improvements
+- Admin dashboard for managing restaurants and menus
+- Email notifications for order confirmation
+- Payment gateway integration
+- Filters and ratings
 
 
 📸 Screenshots
